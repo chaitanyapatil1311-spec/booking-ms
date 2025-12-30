@@ -9,7 +9,7 @@ public class hotel {
     @GetMapping("/hotel")
     public String getData() {
 
-        return " This changes happend from dev side ";
+        return "Last seesion ";
 
     }
 }
