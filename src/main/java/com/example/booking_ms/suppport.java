@@ -8,7 +8,7 @@ public class suppport {
 
     @GetMapping("/support")
     public String getData() {
-        return " Welcome support team ";
+        return " Byw bye support team ";
 
     }
 }
