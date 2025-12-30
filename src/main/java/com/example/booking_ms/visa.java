@@ -8,6 +8,6 @@ public class visa {
 
     @GetMapping("/visa")
     public String getData() {
-        return "Click on Visa";
+        return "Click on Visa and It is free of cost";
     }
 }
